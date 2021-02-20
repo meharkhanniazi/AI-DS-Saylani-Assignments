@@ -1,0 +1,4 @@
+So far I learned many things in Python.
+Python is very cool.
+Python is one of the most popular languages.
+I love Python.
